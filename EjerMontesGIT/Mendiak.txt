@@ -1,0 +1,61 @@
+Nombre:Aizkorri
+Provincia:Gipuzkoa
+Altura:1528
+Coordenadas:42°57'08?N 02°19'00?W
+Macizo:Aizkorriko Macizo
+RutaHabitual:Otsaurtetik, Arantzazutik eta Zegamatik
+----------------
+Nombre:Jaizkibel
+Provincia:Gipuzkoa
+Altura:547
+Coordenadas:43°22'01?N 01°49'15?W
+Macizo:Euskal Herriko arkua
+----------------
+Nombre:Udalatx
+Provincia:Gipuzkoa
+Altura:1117
+Coordenadas:43°5'28?N 2°30'45?W
+Macizo:Euskal Herriko arkua
+RutaHabitual:Udala (Arrasate)
+----------------
+Nombre:Urko
+Provincia:Gipuzkoa
+Altura:793
+Coordenadas:43°13'38?N 02°27'30?W
+Macizo:Euskal mendiak
+RutaHabitual:Eibartik
+----------------
+Nombre:Larrunarri/Txindoki
+Provincia:Gipuzkoa
+Altura:1346
+Coordenadas:43°01'25?N 02°05'00?W
+Macizo:Aralar
+RutaHabitual:Larraitzetik
+----------------
+Nombre:Anboto
+Provincia:Bizkaia
+Altura:1331
+Coordenadas:43°05'20?N 02°35'42?W
+Macizo:Euskal mendiak
+RutaHabitual:Urkiolatik
+----------------
+Nombre:Gorbeia
+Provincia:Bizkaia, Araba
+Altura:1482
+Coordenadas:43°2'5.97?N 2°46'47.66?W
+Macizo:Gorbeiako Macizo
+RutaHabitual:Pagomakurre (Areatza), Ubide, Zarate, Murua
+----------------
+Nombre:Oiz
+Provincia:Bizkaia
+Altura:1029
+Coordenadas:43°13'42?N 02°35'30?W
+Macizo:Oiz
+----------------
+Nombre:Toloino
+Provincia:Araba
+Altura:1263
+Coordenadas:42°37'26?N 2°45'46?W
+Macizo:Toloño/Kantabria (Arabako Mendialdea)
+RutaHabitual:Buradon Gatzaga (Ordu 2), Bastida (Ordu 2 eta 30 min), Ribasko mendatetik (Ordu 1 eta 15 min)
+----------------
